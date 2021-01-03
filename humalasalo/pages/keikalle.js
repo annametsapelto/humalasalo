@@ -1,5 +1,6 @@
-export default () => (
+ const Keikalle = () => (
     <div>
-        <h1>Keikkailu</h1>
+        <h1>Keikalle</h1>
     </div>
 )
+export default Keikalle;
