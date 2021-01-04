@@ -1,9 +1,9 @@
 import Navigaatio from '../Components/Navigaatio';
-
-const Vuokrattavana = () => (
+ 
+ const Jasenyys = () => (
     <div>
         <Navigaatio/>
-        <h1>Vuokrattavana</h1>
+        <h1>Jäsenyys</h1>
     </div>
 )
-export default Vuokrattavana;
+export default Jasenyys;
