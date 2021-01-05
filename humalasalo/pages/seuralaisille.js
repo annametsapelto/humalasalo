@@ -1,9 +1,11 @@
-import Navigaatio from '../Components/Navigaatio';
+import Layout from '../Components/Layout';
 
 const Seuralaisille = () => (
-    <div>
-        <Navigaatio/>
+    <Layout>
+      <div>
         <h1>Seuralaisille</h1>
-    </div>
+      </div>
+    </Layout>
+
 )
 export default Seuralaisille;

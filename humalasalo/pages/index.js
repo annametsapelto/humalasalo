@@ -1,10 +1,12 @@
-import Navigaatio from '../Components/Navigaatio';
+import Layout from '../Components/Layout';
 
 export default function Home() {
   return (
-    <div>
-      <Navigaatio/>
-      <h1>Tervetuloa keskiajalle</h1>
-    </div>
+    <Layout>
+      <div>
+        <h1>Tervetuloa keskiajalle</h1>
+      </div>
+    </Layout>
+
   )
 }

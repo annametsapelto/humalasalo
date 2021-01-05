@@ -1,9 +1,11 @@
-import Navigaatio from '../Components/Navigaatio';
+import Layout from '../Components/Layout';
 
 const Yhteystiedot = () => (
-    <div>
-        <Navigaatio/>
+    <Layout>
+      <div>
         <h1>Yhteystiedot</h1>
-    </div>
+      </div>
+    </Layout>
+
 )
 export default Yhteystiedot;

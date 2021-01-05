@@ -1,9 +1,11 @@
-import Navigaatio from '../Components/Navigaatio';
+import Layout from '../Components/Layout';
  
  const Jasenyys = () => (
-    <div>
-        <Navigaatio/>
+    <Layout>
+      <div>
         <h1>Jäsenyys</h1>
-    </div>
+      </div>
+    </Layout> 
+
 )
 export default Jasenyys;

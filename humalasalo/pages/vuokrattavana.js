@@ -1,9 +1,11 @@
-import Navigaatio from '../Components/Navigaatio';
+import Layout from '../Components/Layout';
 
 const Vuokrattavana = () => (
-    <div>
-        <Navigaatio/>
+    <Layout>
+      <div>
         <h1>Vuokrattavana</h1>
-    </div>
+      </div>
+    </Layout>
+
 )
 export default Vuokrattavana;

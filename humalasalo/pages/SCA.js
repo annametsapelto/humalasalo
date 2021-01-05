@@ -1,9 +1,11 @@
-import Navigaatio from '../Components/Navigaatio';
+import Layout from '../Components/Navigaatio';
 
 const SCA = () => (
-    <div>
-        <Navigaatio/>
+    <Layout>
+      <div>
         <h1>Osana SCA:ta</h1>
-    </div>
+      </div>
+    </Layout>
+
 )
 export default SCA;

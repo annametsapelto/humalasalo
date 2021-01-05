@@ -1,9 +1,11 @@
-import Navigaatio from '../Components/Navigaatio'; 
+import Layout from '../Components/Layout'; 
  
  const Keikalle = () => (
-    <div>
-        <Navigaatio/>
+    <Layout>
+      <div>
         <h1>Keikalle</h1>
-    </div>
+      </div>
+    </Layout>
+
 )
 export default Keikalle;
