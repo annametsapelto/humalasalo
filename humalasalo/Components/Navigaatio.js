@@ -1,7 +1,8 @@
 import Link from 'next/link';
+import styles from './Navigaatio.module.css';
 
 const Navigaatio = () => (
-    <div>
+    <div className={styles.nav}>
         <ul>
             <li><Link href="/"><a>Etusivu</a></Link></li>
             <li><Link href="/toiminta"><a>Toiminta</a></Link></li>
