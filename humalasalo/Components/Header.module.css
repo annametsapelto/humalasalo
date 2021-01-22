@@ -1,0 +1,14 @@
+.header {
+    margin: 0;
+    background-color: #782121;
+}
+
+.header h1 {
+    text-align:center;
+    color: #e8cc76ff;
+}
+
+.header h2 {
+    color: #e8cc76ff;
+    text-align: center;
+}
