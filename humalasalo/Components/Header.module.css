@@ -1,9 +1,11 @@
 .header {
-    margin: 0;
-    background-color: #782121;
+    height: 150px;
+    background-color: #961d1d;
+    position:static;
 }
 
 .header h1 {
+    padding-top: 20px;
     text-align:center;
     color: #e8cc76ff;
 }
