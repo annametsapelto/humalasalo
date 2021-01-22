@@ -3,22 +3,25 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #782121;
   }
   
 .nav li {float: left;}
   
 .nav li a {
     display: block;
-    color: white;
+    color: #e8cc76ff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
-  .nav li a:hover:not(.active) {background-color: #111;}
+  .nav li a:hover:not(.active) {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #e8cc76ff;
+  }
   
-  .nav li a.active {background-color: #4CAF50;}
   
   .nav li.right {float: right;}
   
