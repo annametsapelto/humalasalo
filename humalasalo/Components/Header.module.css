@@ -1,16 +1,16 @@
 .header {
     height: 150px;
-    background-color: #961d1d;
+    background-color: #811818;
     position:static;
 }
 
 .header h1 {
     padding-top: 20px;
     text-align:center;
-    color: #e8cc76ff;
+    color: #ffdd99;
 }
 
 .header h2 {
-    color: #e8cc76ff;
+    color: #ffdd99;
     text-align: center;
 }

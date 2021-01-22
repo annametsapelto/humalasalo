@@ -3,14 +3,14 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #782121;
+    background-color: #811818;
   }
   
 .nav li {float: left;}
   
 .nav li a {
     display: block;
-    color: #e8cc76ff;
+    color: #ffdd99;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -19,7 +19,7 @@
   .nav li a:hover:not(.active) {
     text-decoration-line: underline;
     text-decoration-style: solid;
-    text-decoration-color: #e8cc76ff;
+    text-decoration-color: #ffdd99;
   }
   
   
