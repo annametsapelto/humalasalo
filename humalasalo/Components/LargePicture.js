@@ -8,7 +8,7 @@ const LargePicture = (props) => (
             alt={props.name}
             width={500}
             height={350}
-        />
+                    />
     </div>)
 
 export default LargePicture;
