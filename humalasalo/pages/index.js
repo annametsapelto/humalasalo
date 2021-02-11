@@ -12,7 +12,7 @@ export default function Home() {
       <div className={styles.main}>
         <h1>Tervetuloa keskiajalle</h1>
         <LargePicture
-            picture = "/fighting_by_a_lake.jpg"
+            picture = "/images/fighting_by_a_lake.jpg"
             name = "Fighting by a Lake at Cudgel War"
         />
       </div>
