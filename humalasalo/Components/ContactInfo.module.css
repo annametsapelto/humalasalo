@@ -1,7 +1,7 @@
 .infobox {
-    margin: 100px;
+    margin: auto;
     text-align: center;
-    width: 400px;
+    max-width: 400px;
     border: 1px solid #999;
     border-radius: 5px;
 }

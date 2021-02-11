@@ -14,7 +14,7 @@ const Yhteystiedot = () => (
               Tässä on lista meidän virkailijoistamme eli seuramme aktiiveista. 
               Jos asiasi koskee jotain tiettyä aihealuetta, kannattaa lähestyä suoraan kyseisen aihealueen asiantuntijaa, 
               mutta tarvittaessa ohjaamme kysymykset oikeaan suuntaan. 
-              Meidän toiminnastamme tiedotamme tarkemmin sähköpostilistalla sekä Facebook-ryhmässä.</p>
+              Meidän toiminnastamme tiedotamme tarkemmin sähköpostilistalla sekä <a href="https://www.facebook.com/groups/375781035887556">Facebook-ryhmässä</a>.</p>
             <ContactInfo 
             title="Vouti (Puheenjohtaja)"
             name="Erhart von Mannheim (Jarno Manninen)"
