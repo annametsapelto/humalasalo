@@ -3,11 +3,11 @@ body {
   background-color: #f9f9f9;
   padding: 0;
   margin: 0;
-  font-family: "OpenSans-CondLight", sans-serif;
+  font-family: "Roboto-Regular", sans-serif;
 }
 @font-face {
-  font-family: "OpenSans-CondLight";
-  src: url("/fonts/OpenSans-CondLight.ttf");
+  font-family: "Roboto-Regular";
+  src: url("/fonts/Roboto/Roboto-Regular.ttf");
   font-style: normal;
   font-weight:400;
   font-display: swap;
