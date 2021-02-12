@@ -22,12 +22,12 @@ const Yhteystiedot = () => (
             />
             <ContactInfo 
                 title="Varavouti (Varapuheenjohtaja)"
-                name="(Henri Laine)"
+                name="Dubhghall MacÉibhearáird (Henri Laine)"
                 email="Email: varavouti@humalasalo.net"
             />
             <ContactInfo 
                 title="Rahainvartija (Rahastonhoitaja)"
-                name="(Tuikku Pirhonen)"
+                name="Humalasalon Tuikku (Tuikku Pirhonen)"
                 email="Email: rahainvartija@humalasalo.net"
             />
             <ContactInfo 
@@ -47,7 +47,7 @@ const Yhteystiedot = () => (
             />
             <ContactInfo 
                 title="Airut (Vaakuna- ja nimivastaava)"
-                name="Joanne (Hanna Kivelä)"
+                name="Joanne am Rein (Hanna Kivelä)"
                 email="Email: airut@humalasalo.net"
             />
             <ContactInfo 
@@ -67,7 +67,7 @@ const Yhteystiedot = () => (
             />
             <ContactInfo 
                 title="Harjuvakean kylänvanhin (Valkeakosken paikallisvastaava)"
-                name="Jaakko Voutilainen (Jaakko of Harjuvalkea)"
+                name="Harjuvalkean Jaakko (Jaakko Voutilainen)"
                 email="Email: kv-harjuvalkea@humalasalo.net"
             />
             <ContactInfo 
