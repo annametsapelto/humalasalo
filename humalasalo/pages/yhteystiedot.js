@@ -40,6 +40,51 @@ const Yhteystiedot = () => (
                 name="Anneke Alfintytär Lindu (Anne Syrjä)"
                 email="Email: jousimarski@humalasalo.net"
             />
+            <ContactInfo 
+                title="Marski (Taisteluvastaava)"
+                name="()"
+                email="Email: marski@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Airut (Vaakuna- ja nimivastaava)"
+                name="Joanne (Hanna Kivelä)"
+                email="Email: airut@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Tiede- ja taideneuvos"
+                name="()"
+                email="Email: moas@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Tervakannaksen kylänvanhin (Tampereen paikallisvastaava)"
+                name="()"
+                email="Email: kv-tervakannas@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Tammilinnan kylänvanhin (Hämeenlinnan paikallisvastaava)"
+                name="(Joni Karjalainen)"
+                email="Email: kv-tammilinna@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Harjuvakean kylänvanhin (Valkeakosken paikallisvastaava)"
+                name="Jaakko Voutilainen (Jaakko of Harjuvalkea)"
+                email="Email: kv-harjuvalkea@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Sudenportin kylänvanhin (Lahden paikallisvastaava)"
+                name="()"
+                email="Email: kv-sudenportti@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Tanssimestari"
+                name="Adrian Möhkö (Atro Kajaste)"
+                email="Email: tanssimestari@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Seitinkutoja (Web-vastaava)"
+                name="Dianora del Bianco (Anna Metsäpelto)"
+                email="Email: webvastaava@humalasalo.net"
+            />
       </div>
     </Layout>
 
