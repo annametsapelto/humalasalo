@@ -16,9 +16,29 @@ const Yhteystiedot = () => (
               mutta tarvittaessa ohjaamme kysymykset oikeaan suuntaan. 
               Meidän toiminnastamme tiedotamme tarkemmin sähköpostilistalla sekä <a href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook-ryhmässä</a>.</p>
             <ContactInfo 
-            title="Vouti (Puheenjohtaja)"
-            name="Erhart von Mannheim (Jarno Manninen)"
-            email="Email: vouti@humalasalo.net"
+                title="Vouti (Puheenjohtaja)"
+                name="Erhart von Mannheim (Jarno Manninen)"
+                email="Email: vouti@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Varavouti (Varapuheenjohtaja)"
+                name="(Henri Laine)"
+                email="Email: varavouti@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Rahainvartija (Rahastonhoitaja)"
+                name="(Tuikku Pirhonen)"
+                email="Email: rahainvartija@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Kastellaani (Jäsenvastaava)"
+                name="Dianora del Bianco (Anna Metsäpelto)"
+                email="Email: kastellaani@humalasalo.net"
+            />
+            <ContactInfo 
+                title="Jousimarski (Jousiammuntavastaava)"
+                name="Anneke Alfintytär Lindu (Anne Syrjä)"
+                email="Email: jousimarski@humalasalo.net"
             />
       </div>
     </Layout>
