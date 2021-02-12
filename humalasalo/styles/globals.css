@@ -16,6 +16,9 @@ a {
   color: #13809cff;
   text-decoration: none;
 }
+a:hover {
+  text-decoration: underline;
+}
 
 * {
   box-sizing: border-box;

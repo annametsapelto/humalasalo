@@ -4,3 +4,9 @@
     max-height: 350px;
     border: 1px solid #13809cff;
 }
+@media screen and (max-width: 600px) {
+    .pic {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
