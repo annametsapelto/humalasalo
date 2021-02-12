@@ -11,7 +11,7 @@ import LargePicture from '../Components/LargePicture';
       <div className={styles.main}>
         <h1>Jäsenyys</h1>
         <p>Hämeen keskiaikaseuraan liitytään liittymällä Suomen keskiaikaseuraan. 
-          Tulostettavan jäsenlomakkeen löydät täältä. Lomakkeesta valitaan paikallisyhdistykseksi Hämeen keskiaikaseura. 
+          Tulostettavan jäsenlomakkeen löydät <a href="https://www.aarnimetsa.org/keskiaikaseura-yhdistyksena/lomakkeet/" target="_blank">täältä</a>. Lomakkeesta valitaan paikallisyhdistykseksi Hämeen keskiaikaseura. 
           Keskiaikanimi ei ole pakollinen, jos sellaista ei ole ehtinyt itselleen kehittää. 
           Jäsenmaksu sisältää Suomen keskiaikaseuran oman julkaisun Aarniwalcean sekä Drachenwaldin eli Euroopan laajuisen 
           kuningaskunnan julkaisun Dragon’s Talen sähköisessä muodossa.
