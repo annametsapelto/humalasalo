@@ -4,6 +4,8 @@
 }
 
 .main p {
+    font-size: 18px; 
+    margin-bottom: 50px;
     margin-left: 20%;
     margin-right: 20%;
 }
