@@ -1,6 +1,7 @@
 import Layout from '../Components/Layout';
 import Head from 'next/head';
 import styles from './MainContent.module.css';
+import LargePicture from '../Components/LargePicture';
  
  const Jasenyys = () => (
     <Layout>
@@ -20,6 +21,10 @@ import styles from './MainContent.module.css';
           Viikonlopputapahtumista alennus on tyypillisesti viisi euroa. Lisäksi vain maksaneet jäsenet lasketaan pitäjän varsinaisiksi asukkaiksi, 
           jotka saavat vaikuttaa seuran sisäisiin asioihin kuten paronillisten valintaan tai asettua itse ehdolle. 
         </p>
+        <LargePicture 
+            picture="/images/ruoka2.jpg"
+            name="Ruokaa, ruoka-astioita ja juoma-astioita nurmikolla."
+        />
       </div>
     </Layout> 
 
