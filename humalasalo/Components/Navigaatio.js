@@ -6,6 +6,7 @@ const Navigaatio = () => (
         <ul>
             <li><Link href="/"><a>Etusivu</a></Link></li>
             <li><Link href="/toiminta"><a>Toiminta</a></Link></li>
+            <li><Link href="/tapahtumat"><a>Tapahtumat</a></Link></li>
             <li><Link href="/SCA"><a>SCA</a></Link></li>
             <li><Link href="/jasenyys"><a>Jäsenyys</a></Link></li>
             <li><Link href="/seuralaisille"><a>Seuralaisille</a></Link></li>
