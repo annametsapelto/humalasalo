@@ -6,3 +6,6 @@
 .footer p {
     color: #ffdd99
 }
+.footerBox {
+    float: left;
+}

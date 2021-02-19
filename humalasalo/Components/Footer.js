@@ -5,8 +5,10 @@ import FooterPic from './FooterPic';
 const Footer = () => (
     <div className={styles.footer}>
         <FooterPic />
-        <FooterBox />
-        <FooterBox />
+        <FooterBox 
+            text="Humalasalon pitäjä"/>
+        <FooterBox 
+            text="Hämeen keskiaikaseura"/>
     </div>
 )
 
