@@ -8,7 +8,7 @@ const Footer = () => (
         <FooterBox 
             text="Humalasalon pitäjä"/>
         <FooterBox 
-            text="Hämeen keskiaikaseura"/>
+            text="Hämeen keskiaikaseura ry"/>
     </div>
 )
 
