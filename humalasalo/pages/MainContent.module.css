@@ -1,6 +1,8 @@
 .main h1 {
     text-align: center;
     color: #3c3c3c;
+    margin-bottom: 70px;
+    margin-top: 70px;
 }
 .main h3 {
     text-align: center;
@@ -17,5 +19,9 @@
     .main p {
         margin-left: 7%;
         margin-right:7%;
+    }
+    .main h1 {
+        margin-bottom: 30px;
+        margin-top: 30px;
     }
   }
