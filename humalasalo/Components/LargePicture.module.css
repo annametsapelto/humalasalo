@@ -1,5 +1,6 @@
 .pic {
     margin: auto;
+    margin-bottom: 50px;
     max-width: 500px;
     max-height: 350px;
     border: 1px solid #13809cff;

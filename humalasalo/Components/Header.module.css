@@ -6,11 +6,17 @@
 
 .header h1 {
     padding-top: 20px;
+
     text-align:center;
+    float:left;
     color: #ffdd99;
 }
 
 .header h2 {
     color: #ffdd99;
     text-align: center;
+    float: left;
+}
+.picture {
+    float: left;
 }
