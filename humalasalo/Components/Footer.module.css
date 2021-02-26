@@ -1,4 +1,5 @@
 .footer {
+    margin-top: 50px;
     background-color: #811818;
     height: 150px;
 }
@@ -9,4 +10,13 @@
 .footerBox {
     float: left;
     margin-right: 200px;
+}
+@media screen and (max-width: 600px) {
+    .footer {
+        height: 300px;
+    }
+    .footerbox {
+    float: none;
+    margin-right: 50px;
+}
 }
