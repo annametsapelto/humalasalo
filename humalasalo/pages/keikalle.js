@@ -1,5 +1,6 @@
 import Layout from '../Components/Layout'; 
 import Head from 'next/head';
+import LargePicture from '../Components/LargePicture';
 import styles from './MainContent.module.css';
  
  const Keikalle = () => (
@@ -20,6 +21,10 @@ import styles from './MainContent.module.css';
           yhteyttä puheenjohtajaamme
          sähköpostilla osoitteeseen vouti@humalasalo.net.</p>
       </div>
+      <LargePicture 
+          picture = "/images/tanssi2.jpg"
+          name = "Piiritanssia järven rannalla."
+      />
     </Layout>
 
 )
