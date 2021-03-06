@@ -10,7 +10,7 @@ const Vuokrattavana = () => (
       <div className={styles.main}>
         <h1>Vuokrattavana</h1>
         <p>Hämeen keskiaikaseuralla on omaisuutta, jota se voi vuokrata joko toisille keskiaikaseuroille, yrityksille tai yksityishenkilöille.
-          Jos tahdotte vuokrata jotain meiltä, ottakaa yhteys ensisijaisesti voutiin.
+          Jos tahdotte vuokrata jotain meiltä, ottakaa yhteys ensisijaisesti voutiin sähköpostitse osoitteeseen vouti@humalasalo.net.
         </p>
         <h3>Astiasto</h3>
         <p>Puuatulat 10 kpl, hendi 22,5 cm 5 kpl, hendi 26 cm 3 kpl, hendi 24 cm 6 kpl, isokorvainen hendi 12 kpl, pienikorvallinen hendi 12 kpl, 
