@@ -16,7 +16,8 @@ import styles from './MainContent.module.css';
           Tyypillisimmät esitykset ovat tanssi- sekä taisteluesitykset. 
           Meillä ei ole tarkkaa hinnoittelua esityksille, vaan hinta sovitaan 
           tulijoiden määrän, esitysten pituuden, matkan pituuden sekä 
-          esiintymistilaisuuden luonteen mukaan. Jos olette kiinnostuneet 
+          esiintymistilaisuuden luonteen mukaan. Palkkiot käytetään seuran toiminnan edistämiseen. 
+          Jos olette kiinnostuneet 
           kysymään meitä esiintymään tapahtumaanne, ottakaa hyvissä ajoin 
           yhteyttä puheenjohtajaamme
          sähköpostilla osoitteeseen vouti@humalasalo.net.</p>
