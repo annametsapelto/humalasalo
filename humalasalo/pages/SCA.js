@@ -11,16 +11,16 @@ const SCA = () => (
       <div className={styles.main}>
         <h1>Osana SCA:ta</h1>
         <p>Humalasalon pitäjä on osa kansainvälistä historianelävöittäjien verkostoa 
-          nimeltään Society for Creative Anachronism Inc (SCA). SCA määrittää sitä, 
+          nimeltään <a href="https://www.sca.org/" target="_blank">Society for Creative Anachronism Inc (SCA)</a>. SCA määrittää sitä, 
           miten seuran toiminta on järjestetty ja millaisia virkailijoita alueilla pitää olla. </p>
         <p>SCA, jota kutsutaan myös tapahtumissa nimellä ”Tunnettu maailma” (”The Known World”), 
           on jakautunut tällä hetkellä kahteenkymmeneen kuningaskuntaan. Eurooppa, 
-          Lähi-Itä ja Etelä-Afrikka kuuluvat kaikki yhdessä Drachenwaldin kuningaskuntaan. 
+          Lähi-Itä ja Etelä-Afrikka kuuluvat kaikki yhdessä <a href="https://drachenwald.sca.org/#/" target="_blank">Drachenwaldin kuningaskuntaan</a>. 
           Kuningaskuntaa pyörittävät yhdistysvirkailijat sekä puolivuosittain turnajaisilla valittava kuningaspari, 
           joilla on pääosin seremoniallinen asema tapahtumissa. </p>
         <p>Kuningaskunnat jakautuvat ruhtinas- ja paronikuntiin. 
           Ruhtinaskuntaa johtaa turnajaisilla valittava ruhtinaspari, ja paronikuntaa vaaleilla valittava, 
-          kuningasparin nimittämä paronipari. Suomi muodostaa Aarnimetsän paronikunnan. </p>
+          kuningasparin nimittämä paronipari. Suomi muodostaa <a href="https://www.aarnimetsa.org/" target="_blank">Aarnimetsän paronikunnan</a>. </p>
         <p>Ruhtinaskuntien ja paronikuntien alaisuudessa toimii paikallisyhdistyksiä eli pitäjiä, 
           jollainen Humalasalo eli Hämeen keskiaikaseura ry on. Meidän pitäjämme on lisäksi jakautunut 
           epävirallisiin kyliin, koska alueemme on melko laaja. Kylämme ovat Tammilinna Hämeenlinnassa, 
