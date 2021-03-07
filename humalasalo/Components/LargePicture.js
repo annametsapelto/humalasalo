@@ -6,8 +6,8 @@ const LargePicture = (props) => (
         <Image
             src={props.picture}
             alt={props.name}
-            width={500}
-            height={350}
+            width={700}
+            height={450}
                     />
     </div>)
 
