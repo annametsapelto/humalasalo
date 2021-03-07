@@ -1,3 +1,7 @@
-.spic {
+.smallPic {
+    display: block;
+    width: 300px;
     margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
