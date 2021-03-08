@@ -54,6 +54,7 @@ const SCA = () => (
           ritarin arvonimen ja valkoisen vyön taistelutaidoista ja pelikaanin arvonimen ahkerasta työstä seuran eteen.</p>
         <p>Siitä huolimatta, että meillä on seuran sisäinen arvojärjestys olemassa, oikeasti arvostamme jokaista jäsentä 
           yhtä paljon vasta-alkajasta vanhaan konkariin, sylilapsesta vanhukseen.</p>
+        <p>Alla olevassa kuvassa on Aarnimetsän paronipari (syksystä 2017 syksyyn 2019) seurueineen.</p>
         <LargePicture
             picture = "/images/paronilliset.jpg"
             name = "Viisi keskiaikapukuista henkilöä ulkona kesällä, keskellä Aarnimetsän paronipari."
