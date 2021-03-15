@@ -45,6 +45,10 @@ const Tapahtumat = () => (
         <p>Osallistujat tuovat mukanaan omat ajanmukaiset vaatteensa ja astiansa, 
           mutta niiden puutteen ei tarvitse olla este tapahtumaan osallistumiselle, 
           vaan useimmissa tapauksissa niitä saa lainaan, kunhan asiasta puhuu ajoissa autokraatin kanssa.</p>
+        <LargePicture
+          picture = "/images/pitopöydässä.jpg"
+          name = "Pitopöydässä."
+        />
         <h3>Leiritapahtumat</h3>
         <p>Aarnimetsässä järjestetään tällä hetkellä yksi vuosittainen leiritapahtuma eli Nuijasota, 
           mutta vastaavia tapahtumia on kesäkaudella useampia ympäri Drachenwaldia. 
@@ -67,11 +71,15 @@ const Tapahtumat = () => (
         <p>Keskiaikamarkkinat eivät ole virallisia seuran tapahtumia, mutta me käymme useilla markkinoilla 
           esiintyjinä tai elävöittäjinä. Meillä saattaa olla esimerkiksi tanssi- tai taistelunäytöksiä, 
           mutta usein olemme paikalla tuomassa tunnelmaa omassa leirissämme, kuljeksimassa markkinaväen 
-           tai vaikka tekemässä käsitöitä linnassa. Vaikka markkinakojuissa myydään paljon modernejakin tavaroita, 
-           niiltä voi tehdä jonkin verran kivoja löytöjä, joita ei muuten pääse hypistelemään, sillä monia 
-           harrastukseemme sopivia esineitä ei juuri myydä kivijalkaliikkeissä.</p>
+          tai vaikka tekemässä käsitöitä linnassa. Vaikka markkinakojuissa myydään paljon modernejakin tavaroita, 
+          niiltä voi tehdä jonkin verran kivoja löytöjä, joita ei muuten pääse hypistelemään, sillä monia 
+          harrastukseemme sopivia esineitä ei juuri myydä kivijalkaliikkeissä.</p>
         <p>Yleensä seurojen leireihin markkinoille on ilmoittautumiset verkossa hyvissä ajoin ennen tapahtumaa. 
-          Vaatimuksena tyypillisesti on vähintään vahtivuoro leirissä.</p>
+          Vaatimuksena tyypillisesti on vähintään vahtivuoro leirissä tai mahdollisella esittelypöydällä.</p>
+        <LargePicture
+          picture = "/images/markkinoilla.jpg"
+          name = "Historiallisilla markkinoilla esittelypöydän äärellä."
+        />
       </div>
     </Layout>
 )
