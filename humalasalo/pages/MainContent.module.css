@@ -14,7 +14,14 @@
     margin-left: 20%;
     margin-right: 20%;
 }
-
+.main ul {
+    margin-bottom: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.main li {
+    font-size: 18px;
+}
 @media screen and (max-width: 600px) {
     .main p {
         margin-left: 7%;
@@ -23,5 +30,9 @@
     .main h1 {
         margin-bottom: 30px;
         margin-top: 30px;
+    }
+    .main ul {
+        margin-left: 10%;
+        margin-right: 7%;
     }
   }

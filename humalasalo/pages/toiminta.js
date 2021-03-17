@@ -23,8 +23,8 @@ const Toiminta = () => (
           Paikallistoimintaan kaikki ovat tervetulleita aivan omana itsenään ilman mitään 
           ennakkotietoja tai varusteita. Paikallistoimintaan osallistuminen on helpoin tapa 
           päästä mukaan uuteen harrastukseen ja tutustua uusiin ihmisiin. </p>
-        <p>Toiminnasta tiedotetaan seuran sähköpostilistalla (linkki) sekä Facebookissa 
-          <a href="https://www.facebook.com/groups/375781035887556">Humalasalon pitäjä -ryhmässä</a>. </p>
+        <p>Toiminnasta tiedotetaan seuran sähköpostilistalla (linkki) sekä Facebookissa  
+          <a href="https://www.facebook.com/groups/375781035887556"> Humalasalon pitäjä -ryhmässä</a>. </p>
         <h3>Torstaitapaamiset</h3>
           <ul>
             <li>Aika: joka kuukauden 2. ja 4. torstai n. klo 17-20.</li>
@@ -76,10 +76,10 @@ const Toiminta = () => (
           <ul>
             <li>Yhteystiedot: Dubhghall / dugi@iki.fi</li>
             <li>Huom! Harjoitukset ja kokeiluhetket sovittaessa</li>
-            <p>Humalasalossa niin kuin muuallakin Aarnimetsässä miekkaillaan SCA:n miekkailusääntöjen mukaan. 
+          </ul>
+          <p>Humalasalossa niin kuin muuallakin Aarnimetsässä miekkaillaan SCA:n miekkailusääntöjen mukaan. 
               Tervakannaksella kalpamiekkailun jaloon taitoon pääsee tutustumaan sovittaessa. Miekkailijat kalistelevat teriään 
               sekä sisävuoroilla että ulkona auringossa, ja sisävuorojen kustannukset jaetaan harjoituksiin osallistuvien kesken.</p>
-          </ul>
       </div>
     </Layout>
 
