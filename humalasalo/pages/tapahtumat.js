@@ -6,6 +6,7 @@ import styles from './MainContent.module.css';
 const Tapahtumat = () => (
     <Layout>
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>Humalasalo Tapahtumat</title>
       </Head>
       <div className={styles.main}>

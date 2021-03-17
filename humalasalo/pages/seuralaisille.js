@@ -7,6 +7,7 @@ import styles from './MainContent.module.css';
 const Seuralaisille = () => (
     <Layout>
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>Humalasalo Seuralaisille</title>
       </Head>
       <div className={styles.main}>

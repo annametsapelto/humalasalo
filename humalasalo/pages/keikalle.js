@@ -6,6 +6,7 @@ import styles from './MainContent.module.css';
  const Keikalle = () => (
     <Layout>
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>Humalasalo Keikalle</title>
       </Head>
       <div className={styles.main}>

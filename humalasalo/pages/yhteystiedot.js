@@ -6,6 +6,7 @@ import ContactInfo from '../Components/ContactInfo';
 const Yhteystiedot = () => (
     <Layout>
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>Humalasalo Yhteystiedot</title>
       </Head>
       <div className={styles.main}>

@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>Humalasalo Etusivu</title>
       </Head>
       <div className={styles.main}>

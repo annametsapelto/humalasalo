@@ -6,6 +6,7 @@ import styles from './MainContent.module.css';
 const SCA = () => (
     <Layout>
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>Humalasalo SCA</title>
       </Head>
       <div className={styles.main}>

@@ -5,6 +5,7 @@ import styles from './MainContent.module.css';
 const Toiminta = () => (
     <Layout>
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>Humalasalo Toiminta</title>
       </Head>
       <div className={styles.main}>

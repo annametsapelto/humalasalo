@@ -5,6 +5,7 @@ import styles from './MainContent.module.css';
 const Vuokrattavana = () => (
     <Layout>
       <Head>
+        <link rel="icon" href="/favicon.ico" />
         <title>Humalasalo Vuokrattavana</title>
       </Head>
       <div className={styles.main}>

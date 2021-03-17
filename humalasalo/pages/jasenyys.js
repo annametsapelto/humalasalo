@@ -6,6 +6,7 @@ import LargePicture from '../Components/LargePicture';
  const Jasenyys = () => (
     <Layout>
       <Head>
+      <link rel="icon" href="/favicon.ico" />
         <title>Humalasalo Jäsenyys</title>
       </Head>
       <div className={styles.main}>
