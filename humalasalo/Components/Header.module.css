@@ -1,7 +1,12 @@
-.header {
+.head {
+    display: flex;
     height: 150px;
     background-color: #811818;
     position:static;
+}
+
+.head header {
+    display: flex;
 }
 
 .header h1 {
@@ -13,4 +18,15 @@
 .header h2 {
     color: #ffdd99;
     text-align: center;
+}
+.device img {
+    filter: drop-shadow(3px 3px 2px #222);
+    position: static;
+}
+
+@media screen and (max-width: 600px) {
+    .header img {
+        width: 200px;
+        height: 300px;
+    }
 }

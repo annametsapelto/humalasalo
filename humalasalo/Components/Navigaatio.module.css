@@ -2,11 +2,15 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
+    padding-left: 300px;
     overflow: hidden;
     background-color: #811818;
   }
   
-.nav li {float: left;}
+.nav li {
+  float: left;
+}
+
   
 .nav li a {
     display: block;
