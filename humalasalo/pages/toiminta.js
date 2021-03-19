@@ -10,8 +10,8 @@ const Toiminta = () => (
       </Head>
       <div className={styles.main}>
         <h1>Toiminta</h1>
-        <p className = "huom">HUOM! Koronaviruspandemian vuoksi 
-        kaikki toimintamme on joko tauolla tai siirtynyt verkkoon. </p>
+        <p><i>HUOM! Koronaviruspandemian vuoksi 
+        kaikki toimintamme on joko tauolla tai siirtynyt verkkoon.</i></p>
         <p>Pitäjämme on tunnettu kukoistavista tieteistään ja taiteistaan, 
           taitavista jousiampujistaan, jaloista asetöiden taitajistaan sekä heraldiikan 
           salat tuntevista airuistaan. Eikä puutu joukostamme oivia pitokokkeja tai 

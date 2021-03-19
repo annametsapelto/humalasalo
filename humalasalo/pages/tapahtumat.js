@@ -2,6 +2,7 @@ import Layout from '../Components/Layout';
 import LargePicture from '../Components/LargePicture';
 import Head from 'next/head';
 import styles from './MainContent.module.css';
+import Link from 'next/link';
 
 const Tapahtumat = () => (
     <Layout>
@@ -46,6 +47,7 @@ const Tapahtumat = () => (
         <p>Osallistujat tuovat mukanaan omat ajanmukaiset vaatteensa ja astiansa, 
           mutta niiden puutteen ei tarvitse olla este tapahtumaan osallistumiselle, 
           vaan useimmissa tapauksissa niitä saa lainaan, kunhan asiasta puhuu ajoissa autokraatin kanssa.</p>
+          <h3><Link href="/tapahtumainfo"><a>Lisää tietoa tapahtumiin osallistumisesta</a></Link></h3>
         <LargePicture
           picture = "/images/pitopöydässä.jpg"
           name = "Pitopöydässä."
