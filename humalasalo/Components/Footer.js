@@ -1,14 +1,14 @@
 import styles from './Footer.module.css';
-import FooterBox from './FooterBox';
+import Link from 'next/link';
 import FooterPic from './FooterPic';
 
 const Footer = () => (
     <div className={styles.footer}>
         <FooterPic />
-        <FooterBox 
-            text="Humalasalon pitäjä"/>
-        <FooterBox 
-            text="Hämeen keskiaikaseura ry"/>
+        <p>Humalasalon pitäjä</p>
+        <p>Hämeen keskiaikaseura ry</p>
+        <p><Link href="/yhteystiedot"><a>Yhteystiedot</a></Link></p>
+        <p><a href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook</a></p>
     </div>
 )
 
