@@ -1,12 +1,12 @@
 .main h1 {
-    text-align: center;
-    color: #3c3c3c;
+    margin-left: 20%;
+    color: #811818;
     margin-bottom: 70px;
     margin-top: 70px;
 }
 .main h3 {
-    text-align: center;
-    color: #3c3c3c;
+    margin-left: 20%;
+    color: #811818;
 }
 .main p {
     font-size: 18px; 

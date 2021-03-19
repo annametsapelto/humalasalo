@@ -1,24 +1,20 @@
 .head {
     display: flex;
     height: 150px;
-    background-color: #811818;
+    background-color: #f9f9f9;
     position:static;
 }
 
 .head header {
     display: flex;
+    justify-content: center;
 }
 
-.header h1 {
-    padding-top: 20px;
-    text-align:center;
-    color: #ffdd99;
+.header img {
+    display: flex;
+    justify-content: center;
 }
 
-.header h2 {
-    color: #ffdd99;
-    text-align: center;
-}
 .device img {
     filter: drop-shadow(3px 3px 2px #222);
     position: static;

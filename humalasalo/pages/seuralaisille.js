@@ -13,7 +13,7 @@ const Seuralaisille = () => (
       <div className={styles.main}>
         <h1>Seuralaisille</h1>
         <SmallPicture
-            picture = "/images/lilja.png"
+            picture = "/images/dividerhumis.png"
             name = "Lilja"
         />
         <p>Humalasalon väellä on käytettävissään seuran oma kirjasto, 

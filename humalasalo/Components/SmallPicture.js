@@ -7,7 +7,7 @@ const SmallPicture = (props) => (
         src={props.picture}
         alt={props.name}
         width={300}
-        height={100}
+        height={150}
     />
     </div>
     )
