@@ -2,7 +2,7 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
-    padding-left: 300px;
+    padding-left: 320px;
     overflow: hidden;
     background-color: #811818;
   }
@@ -16,7 +16,7 @@
     display: block;
     color: #ffdd99;
     text-align: center;
-    padding: 30px 16px;
+    padding: 30px 25px;
     text-decoration: none;
     font-size: 18px;
   }
@@ -29,9 +29,22 @@
   
   
   .nav li.right {float: right;}
+  @media screen and (max-width: 1600px) {
+    .nav li a {
+      padding: 30px 15px;
+    }
+  }
   @media screen and (max-width: 1300px) {
     .nav li a {
-      padding: 15px 16px;
+      padding: 15px 10px;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .nav ul {
+      padding-left: 240px;
+    }
+    .nav li a {
+      padding: 10px 10px;
     }
   }
   @media screen and (max-width: 600px) {
