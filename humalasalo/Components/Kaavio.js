@@ -6,8 +6,8 @@ const Kaavio = () => (
     <Image
         src="/Images/sca-kaavio6.png"
         alt="Kaaviokuva SCA:n rakenteesta Humalasalon näkökulmasta"
-        height={500}
-        width={700}
+        height={600}
+        width={900}
     />
     </div>
 )

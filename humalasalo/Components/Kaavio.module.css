@@ -1,3 +1,12 @@
-.kaavio img {
-    margin-right: 20%
+.kaavio {
+    margin: auto;
+    margin-bottom: 50px;
+    max-width: 900px;
+    max-height: 600px;
+}
+@media screen and (max-width: 600px) {
+    .kaavio {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
