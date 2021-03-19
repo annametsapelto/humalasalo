@@ -13,10 +13,10 @@ const Header = () => (
     </div>
         <div className={styles.header}>
         <Image
-            src="/Images/humalasalonamebar.png"
+            src="/Images/humalasalonamebarplain.png"
             alt="Humalasalo, Hämeen keskiaikaseura ry"
-            width={800}
-            height={150}
+            width={700}
+            height={120}
         />
         </div>
     </div>
