@@ -81,6 +81,68 @@ const Toiminta = () => (
           <p>Humalasalossa niin kuin muuallakin Aarnimetsässä miekkaillaan SCA:n miekkailusääntöjen mukaan. 
               Tervakannaksella kalpamiekkailun jaloon taitoon pääsee tutustumaan sovittaessa. Miekkailijat kalistelevat teriään 
               sekä sisävuoroilla että ulkona auringossa, ja sisävuorojen kustannukset jaetaan harjoituksiin osallistuvien kesken.</p>
+          <h3>SCA Heavy Combat eli rottinkitaistelu</h3>
+          <p>Rottinkitaistelun esikuvana on keskiaikainen miekkailu ja turnajaiset, ja se on saanut nimensä pääasiassa rottingista  
+            valmistetuista aseistaan. Rottinkia käytetään aseissa sen turvallisuutta
+             lisäävien ominaisuuksien vuoksi. Rottinkitaistelua käydään jalkaisin, 
+             monin erilaisin asein, metalli- tai nahkahaarniskoilla suojautuneina. 
+             Koska taistelut käydään täydellä vauhdilla iskuja säästelemättä, on haarniska 
+             välttämätön. Lisäksi taistelijoiden turvaksi on laadittu tiukka säännöstö, 
+             joka asettaa omat turvallisuusvaatimuksensa jo haarniskoillekin. 
+             Toisin kuin keskiajalla oikeasti, myös naiset voivat halutessaan osallistua meidän 
+             taistelutoimintaamme ihan siinä missä miehetkin - ja monet osallistuvatkin.</p>
+          <p>Lisätietoja saat marskilta, <a href="http://scafightingfinland.com/forums/" target="_blank"> foorumilta</a> tai <a href="http://scafightingfinland.com/" target="_blank">infosivuilta</a>.</p>
+          <h3>Historian tutkiminen</h3>
+          <p>Keskiajan ja renessanssin historiaa voidaan harrastaa myös yleisellä tasolla tutkimalla esimerkiksi 
+            aikakauden luonnontieteitä, kielitieteitä, aatehistoriaa, kulttuuri- ja sosiaalihistoriaa sekä kirjallisuutta. 
+            Tapahtumissa voit kuulla tai pitää esitelmiä hyvin monista aiheista.</p>  
+          <h3>Illuminatio ja kalligrafia</h3>
+          <p>Illuminaatiolla tarkoitetaan keskiaikaisiin käsikirjoituksiin tehtyjä maalauksia. 
+            Se kattaa kaiken koristelun reunamaalauksista koko sivun peittäviin kuviin. Kalligrafiaan eli 
+            tekstauksen taitoon tutustumalla opit kirjoittamaan vanhoja tekstityylejä.</p>
+          <p>Keskiaikaseurassa illuminaatiota ja kalligrafiaa voi harrastaa ihan omaksi iloksi, mutta ns. 
+            kirjakääröjä eli scrolleja käytetään myös erilaisten saavutusten huomionosoituksina, joista yleisin esimerkki on aateliskirjan saaminen.</p>
+          <h3>Käsityöt</h3>
+          <p>Käsityöt ovat hyvin tärkeä osa menneisyyden elävöittämistä. Käsityötapaamisissa kartutamme tietojamme 
+            ja taitojamme vanhoista materiaaleista ja menetelmistä. Mitään ei tarvitse tietää etukäteen, 
+            kokeneemmat harrastajat neuvovat mielellään.</p>
+          <p>Voit aloittaa pienistä töistä ja taidon kertyessä voit valmistaa itsellesi kokonaisen keskiaikapuvun tai puvuston lisävarusteineen. 
+            Työstämme kankaan lisäksi myös nahkaa, metallia, puuta ja keramiikkaa. Voit siis valmistaa itsellesi puvun lisäksi puukon, korut, 
+            kengät ja astiat. Neuvoja löytyy myös haastavampiin töihin. Jos siis suunnitelmissasi on saada oma haarniska, niin senkin toteuttaminen on mahdollista. 
+            Linkkilistan kautta löydät yksityiskohtaisempaa tietoa eri aihealueista.</p>
+          <p>Käsityötapaamisista saat helpoiten tietoa liittymällä seuran postituslistalle.</p>
+          <h3>Musiikki</h3>
+          <p>Elävä musiikki on tärkeä tunnelmanluoja. Tapahtumissamme lauletaan ja musisoidaan usein yhdessä. 
+            Pääpaino on keskiaika- ja renessanssimusiikissa sekä niiden säännöin kirjoitetussa uudessa musiikissa. 
+            Tutustumme myös vanhoihin ja ajanmukaisiin soittimiin. Musiikkipiireihin ovat kaikki taitotasosta riippumatta tervetulleita. 
+            Musikanteilla on myös mahdollisuus esiintyä esimerkiksi pidoissa tai vaikkapa säestää tanssia. Lisätietoja saat 
+            tapahtumakalenterista ja seuran kastellaanilta tai tiede- ja taideneuvokselta.</p>
+          <h3>Ruoanlaitto</h3>
+          <p>Keskiaikatapahtumat huipentuvat yleensä pitoihin, joissa voidaan tarjoilla suurelle joukolle kattauksittain 
+            jopa kymmeniä ruokalajeja. Ruoanlaittoa voi harrastaa pienimuotoisemmin harrastuspiireissä ja omassa keittiössä. 
+            Teemme ruokaa erilaisten historiallisten lähteiden ja harrastusperiodimme ajalta säilyneiden reseptien sekä niiden modernisoitujen muunnosten mukaan.</p>
+          <h3>Teatteri</h3>
+          <p>Teatteri oli aluksi kristillisen kirkon keino elävöittää litrugioita ja saarnoja, mutta pian siitä tuli niin rahvaan kuin aatelistenkin 
+            suosima maallisempi viihdemuoto. Pienemmät teatteriryhmät kiertelivät maaseudulla, kun taas isommat seurueet esiintyivät kaupungeissa, 
+            aatelisten luona ja jopa hoveissa. Teatteriseurueeseen saattoi kuulua niin näyttelijöitä, tanssijoita ja laulajia kuin runoniekkoja, 
+            jonglöörejä ja leijonankesyttäjiäkin.</p>
+          <p>Tervakannaksella (Tampere) toimiva uusi teatteriseurue Pyhän Vituksen Komeljanttarit keskittyy hieman vaatimattomammin luomaan 
+            keskiajan hengessä tehtyjä ja commedia dell'arten käytäntöjä noudatelevia näytelmiä niin improvisoiden kuin käsikirjoituksenkin pohjalta. 
+            Harjoituksiin ovat tervetulleita jokainen lavalle toivova taitotasosta tai aiemmasta teatterikokemuksesta riippumatta. 
+            Lisätietoja saat seuran tiede- ja taideneuvokselta.</p>
+          <h3>Heraldiikka</h3>
+          <p>Heraldiikka sisältää seurassamme vaakunat, protokollan ja nimistöasiat ja nämä asiat muodostavat airueidemme toimialan.</p>
+          <p>1100-luvulla käyttöön tulleet vaakunat olivat vahvasti läsnä keskiajan elämässä ja niinpä niitä käytetään 
+            merkittävissä määrin myös seuran toiminnassa. Kuka tahansa seuran jäsen voi omaksua itselleen vaakunan tai muun heraldisen merkin, 
+            joka rekisteröidään seuran piirissä kansainvälisesti siten, että vaakunan omistajalla on yksinoikeus mainittuun tunnukseen seuran 
+            toiminnassa. Vaakunoita käytetään lippuina, kilpiin maalattuina, vaatteissa koristeena sekä mitä moninaisimmin muin tavoin.</p>
+          <h3>Keskiaikapersoona</h3>
+          <p>Tapahtumissa, ja seuran piirissä muutenkin, ihmiset tunnetaan usein keskiaikanimellä eikä omalla nimellään. 
+            Nimen tulee olla sellainen, jota oikeasti keskiajalla elänyt henkilö olisi voinut käyttää. Nimi muodostuu etunimestä ja 
+            mahdollisesta suku- tai lisänimestä, joka tulee esim. paikan, ammatin, vanhempien tai jonkin henkilöön liitetyn ominaisuuden mukaan. 
+            Kasaa kuitenkin nimesi itse ja jätä keksityt ja tunnetut nimet pois. Et siis voi olla Kaarle Suuri, Vilhelm Valloittaja tai Robin Hood. 
+            Aatelisarvoa ei nimeesi voi lisätä ennen kuin sinulle on sellainen seurassa myönnetty. Voit kehittää persoonasi 
+            ympärille halutessasi tarkan henkilöhistorian. Apua tässä aiheessa saat airuelta.</p>
       </div>
     </Layout>
 
