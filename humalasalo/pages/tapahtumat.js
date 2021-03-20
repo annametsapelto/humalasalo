@@ -73,7 +73,7 @@ const Tapahtumat = () => (
         <h3>Markkinat</h3>
         <p>Keskiaikamarkkinat eivät ole virallisia seuran tapahtumia, mutta me käymme useilla markkinoilla 
           esiintyjinä tai elävöittäjinä. Meillä saattaa olla esimerkiksi tanssi- tai taistelunäytöksiä, 
-          mutta usein olemme paikalla tuomassa tunnelmaa omassa leirissämme, kuljeksimassa markkinaväen 
+          mutta usein olemme paikalla tuomassa tunnelmaa omassa leirissämme, kuljeksimassa markkinaväen keskuudessa 
           tai vaikka tekemässä käsitöitä linnassa. Vaikka markkinakojuissa myydään paljon modernejakin tavaroita, 
           niiltä voi tehdä jonkin verran kivoja löytöjä, joita ei muuten pääse hypistelemään, sillä monia 
           harrastukseemme sopivia esineitä ei juuri myydä kivijalkaliikkeissä.</p>
