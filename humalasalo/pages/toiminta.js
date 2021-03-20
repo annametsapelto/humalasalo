@@ -1,6 +1,7 @@
 import Layout from '../Components/Layout';
 import Head from 'next/head';
 import styles from './MainContent.module.css';
+import LargePicture from '../Components/LargePicture';
 
 const Toiminta = () => (
     <Layout>
@@ -60,6 +61,10 @@ const Toiminta = () => (
             Aikaisempaa tanssikokemusta, omaa paria tai pinkeitä tanssitrikoita ei tarvita. Pehmeät tanssitossut ja juomapullo kannattaa ottaa mukaan. 
             Perusteita harjoitellaan aina tarvittaessa, joten mukaan voi tulla milloin vain. Tanssiharjoitukset ovat ilmaiset. 
             Lisää tietoa tanssiharjoituksista saa tanssimestari Adrian Möhköltä (Atro Kajaste) osoitteesta atro.kajaste@iki.fi.</p>
+          <LargePicture
+              picture = "/Images/tanssia pareissa.jpg"
+              name = "Kaksi tanssivaa paria."
+          />
           <h3>Jousiammunta</h3>
           <ul>
             <li>Aika: vuorot tauolla koronaviruspandemian takia</li>
@@ -73,6 +78,10 @@ const Toiminta = () => (
             Reeneissä ammutaan sekä vapaamuotoisesti että pikku kisoja ja hieman skenaariomaisesti joitakin asioita harjoitellen. 
             Täysin aloittelijoita myös opastetaan tarpeen mukaan ja lainakamojakin löytyy. Perusammunnan ohella reenaillaan myös SCA:n paria 
             ammuntaa eli Portsmouth Roundia ja Royal Roundia. Näistä molemmat ovat kelvollisia SCA-luokkien ammuntatuloksiin, jotka lähetetään kuningaskuntaan.</p>
+          <LargePicture
+              picture = "/Images/jousiammuntaa.jpg"
+              name = "Jousiammuntaa ulkoilmassa."
+          />
           <h3>Kalpamiekkailu</h3>
           <ul>
             <li>Yhteystiedot: Dubhghall / dugi@iki.fi</li>
@@ -91,7 +100,12 @@ const Toiminta = () => (
              joka asettaa omat turvallisuusvaatimuksensa jo haarniskoillekin. 
              Toisin kuin keskiajalla oikeasti, myös naiset voivat halutessaan osallistua meidän 
              taistelutoimintaamme ihan siinä missä miehetkin - ja monet osallistuvatkin.</p>
-          <p>Lisätietoja saat marskilta, <a href="http://scafightingfinland.com/forums/" target="_blank"> foorumilta</a> tai <a href="http://scafightingfinland.com/" target="_blank">infosivuilta</a>.</p>
+          <p>Lisätietoja saat marskilta, <a href="http://scafightingfinland.com/forums/" target="_blank"> foorumilta</a> tai 
+          <a href="http://scafightingfinland.com/" target="_blank">infosivuilta</a>.</p>
+          <LargePicture
+              picture = "/Images/rottinkitaistelua.jpg"
+              name = "Kaksi rottinkitaistelijaa turnajaiskentällä."
+          />
           <h3>Historian tutkiminen</h3>
           <p>Keskiajan ja renessanssin historiaa voidaan harrastaa myös yleisellä tasolla tutkimalla esimerkiksi 
             aikakauden luonnontieteitä, kielitieteitä, aatehistoriaa, kulttuuri- ja sosiaalihistoriaa sekä kirjallisuutta. 
@@ -102,6 +116,10 @@ const Toiminta = () => (
             tekstauksen taitoon tutustumalla opit kirjoittamaan vanhoja tekstityylejä.</p>
           <p>Keskiaikaseurassa illuminaatiota ja kalligrafiaa voi harrastaa ihan omaksi iloksi, mutta ns. 
             kirjakääröjä eli scrolleja käytetään myös erilaisten saavutusten huomionosoituksina, joista yleisin esimerkki on aateliskirjan saaminen.</p>
+          <LargePicture
+              picture = "/Images/kalligrafiaa.jpg"
+              name = "Illuminaatiolla koristeltu aateliskirja, joka on tehty muistuttamaan vanhaa nuotinnosta."
+          />
           <h3>Käsityöt</h3>
           <p>Käsityöt ovat hyvin tärkeä osa menneisyyden elävöittämistä. Käsityötapaamisissa kartutamme tietojamme 
             ja taitojamme vanhoista materiaaleista ja menetelmistä. Mitään ei tarvitse tietää etukäteen, 
