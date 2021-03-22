@@ -15,7 +15,7 @@ const Yhteystiedot = () => (
               Tässä on lista meidän virkailijoistamme eli seuramme aktiiveista. 
               Jos asiasi koskee jotain tiettyä aihealuetta, kannattaa lähestyä suoraan kyseisen aihealueen asiantuntijaa, 
               mutta tarvittaessa ohjaamme kysymykset oikeaan suuntaan. 
-              Meidän toiminnastamme tiedotamme tarkemmin sähköpostilistalla sekä <a href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook-ryhmässä</a>.</p>
+              Meidän toiminnastamme tiedotamme tarkemmin <a href="http://humalasalo.net/mailman/listinfo/tiedotuslista_humalasalo.net"> sähköpostilistalla</a> sekä <a href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook-ryhmässä</a>.</p>
             <ContactInfo 
                 title="Vouti (Puheenjohtaja)"
                 name="Erhart von Mannheim (Jarno Manninen)"
