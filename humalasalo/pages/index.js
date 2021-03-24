@@ -17,8 +17,8 @@ export default function Home() {
           pitopöydät notkuvat herkuista, ja jousiampujat virittelevät jousiaan hämmästyttääkseen taituruudellaan. 
           Unelma keskiajasta kokoaa kaikenikäiset historiasta kiinnostuneet yhteen Humalasalon vehreillä mailla. </p>
         <LargePicture
-            picture = "/images/fighting_by_a_lake.jpg"
-            name = "Fighting by a Lake at Cudgel War"
+            picture = "/images/pääpöytä.jpg"
+            name = "Joukko keskiaikaisesti pukeutuneita ihmisiä nostaa maljan."
         />
         <p>Humalasalon pitäjä eli Hämeen keskiaikaseura ry. on keskiajan ja renessanssin 
           elävöittämiselle omistettu yhdistys Pirkanmaan ja Hämeen alueella ja osa <a href="https://www.aarnimetsa.org/" target= "_blank"> Suomen keskiaikaseuraa</a>. 
@@ -34,6 +34,10 @@ export default function Home() {
           uppoutumaan keskiajan ihmisen elämän eri osa-alueisiin kanssamme, oppimaan uutta, tutustumaan uusiin ihmisiin ja ihastumaan keskiaikaan. 
           Lisää tietoa pitäjän ajankohtaisesta toiminnasta saa liittymällä <a href="http://humalasalo.net/mailman/listinfo/tiedotuslista_humalasalo.net"> sähköpostilistallemme</a> tai 
           <a href="https://www.facebook.com/groups/375781035887556" target ="_blank"> Facebook-ryhmäämme</a>. Tervetuloa mukaan!</p>
+        <LargePicture
+            picture = "/images/tulinuolia.jpg"
+            name = "Rivi ihmisiä ampumassa tulinuolia."
+        />
       </div>
     </Layout>
 
