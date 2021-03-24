@@ -43,7 +43,7 @@ const Yhteystiedot = () => (
             />
             <ContactInfo 
                 title="Marski (Taisteluvastaava)"
-                name="()"
+                name="Oliver of Harjuwalcea (Olli Leimu)"
                 email="Email: marski@humalasalo.net"
             />
             <ContactInfo 
@@ -58,7 +58,7 @@ const Yhteystiedot = () => (
             />
             <ContactInfo 
                 title="Tervakannaksen kylänvanhin (Tampereen paikallisvastaava)"
-                name="()"
+                name="Ósk Grimsdóttir (Onerva Leisti)"
                 email="Email: kv-tervakannas@humalasalo.net"
             />
             <ContactInfo 
