@@ -5,8 +5,8 @@ const Badge = (props) => (
         <Image 
         src={props.pic}
         alt={props.alt}
-        height="50"
-        width="50"
+        height="60"
+        width="60"
         />
     </div>
 
