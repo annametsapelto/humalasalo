@@ -11,7 +11,6 @@ const Navigaatio = () => (
             <li><Link href="/jasenyys"><a>Jäsenyys</a></Link></li>
             <li><Link href="/seuralaisille"><a>Seuralaisille</a></Link></li>
             <li><Link href="/keikalle"><a>Keikalle</a></Link></li>
-            <li><Link href="/vuokrattavana"><a>Vuokrattavana</a></Link></li>
             <li><Link href="/yhteystiedot"><a>Yhteystiedot</a></Link></li>
         </ul>
     </div>
