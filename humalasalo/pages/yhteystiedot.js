@@ -83,7 +83,7 @@ const Yhteystiedot = () => (
                 title="Tammilinnan kylänvanhin (Hämeenlinnan paikallisvastaava)"
                 pic = "/images/humalasalodeviceplain.png"
                 picName = "Humalasalon vaakuna"
-                name="(Joni Karjalainen)"
+                name="Tammilinnan Jon (Joni Karjalainen)"
                 email="Email: kv-tammilinna@humalasalo.net"
             />
             <ContactInfo 
