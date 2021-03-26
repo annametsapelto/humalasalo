@@ -2,6 +2,7 @@ import Layout from '../Components/Layout';
 import Head from 'next/head';
 import LargePicture from '../Components/LargePicture';
 import styles from './MainContent.module.css';
+import SmallPicture from '../Components/SmallPicture';
  
  const Keikalle = () => (
     <Layout>
@@ -11,6 +12,10 @@ import styles from './MainContent.module.css';
       </Head>
       <div className={styles.main}>
         <h1>Keikalle</h1>
+        <SmallPicture
+            picture = "/images/divider02.png"
+            name = "Lohikäärme"
+        />
         <p>Hämeen keskiaikaseuraa voi kysyä erilaisiin esiintymistilaisuuksiin. 
           Olemme esiintyneet useilla eri historiallisilla markkinoilla, 
           muissa yleisissä tilaisuuksissa sekä myös yksityistilaisuuksissa. 

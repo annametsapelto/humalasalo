@@ -2,6 +2,7 @@ import Layout from '../Components/Layout';
 import Head from 'next/head';
 import styles from './MainContent.module.css';
 import LargePicture from '../Components/LargePicture';
+import SmallPicture from '../Components/SmallPicture';
  
  const Jasenyys = () => (
     <Layout>
@@ -11,6 +12,10 @@ import LargePicture from '../Components/LargePicture';
       </Head>
       <div className={styles.main}>
         <h1>Jäsenyys</h1>
+        <SmallPicture
+            picture = "/images/divider01.png"
+            name = "Ritarijänis"
+        />
         <p>Hämeen keskiaikaseuraan liitytään liittymällä Suomen keskiaikaseuraan. 
           Tulostettavan jäsenlomakkeen löydät <a href="https://www.aarnimetsa.org/keskiaikaseura-yhdistyksena/lomakkeet/" target="_blank">täältä</a>. Lomakkeesta valitaan paikallisyhdistykseksi Hämeen keskiaikaseura. 
           Keskiaikanimi ei ole pakollinen, jos sellaista ei ole ehtinyt itselleen kehittää. 

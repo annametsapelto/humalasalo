@@ -2,6 +2,7 @@ import Layout from '../Components/Layout';
 import Head from 'next/head';
 import styles from './MainContent.module.css';
 import LargePicture from '../Components/LargePicture';
+import SmallPicture from '../Components/SmallPicture';
 
 const Toiminta = () => (
     <Layout>
@@ -27,6 +28,10 @@ const Toiminta = () => (
           päästä mukaan uuteen harrastukseen ja tutustua uusiin ihmisiin. </p>
         <p>Toiminnasta tiedotetaan seuran sähköpostilistalla (linkki) sekä Facebookissa  
           <a href="https://www.facebook.com/groups/375781035887556"> Humalasalon pitäjä -ryhmässä</a>. </p>
+        <SmallPicture
+            picture = "/images/divider03.png"
+            name = "Soturi ja etana"
+        />
         <h3>Torstaitapaamiset</h3>
           <ul>
             <li>Aika: joka kuukauden 2. ja 4. torstai n. klo 17-20.</li>
@@ -45,6 +50,10 @@ const Toiminta = () => (
             ja tutustumaan uusiin ihmisiin.</p>
           <p>Torstaitapaamisia järjestetään joka kuun toinen ja neljäs torstai. Torstaitapaamisten aika, 
             paikka ja mahdollinen ohjelma ilmoitetaan seuran sähköpostilistalla sekä Facebook-ryhmässä.</p>
+          <SmallPicture
+            picture = "/images/divider01.png"
+            name = "Ritarijänis"
+          />
           <h3>Hovitanssit</h3>
           <ul>
             <li>Aika: keskiviikkoisin klo 18-20</li>
@@ -139,6 +148,10 @@ const Toiminta = () => (
           <p>Keskiaikatapahtumat huipentuvat yleensä pitoihin, joissa voidaan tarjoilla suurelle joukolle kattauksittain 
             jopa kymmeniä ruokalajeja. Ruoanlaittoa voi harrastaa pienimuotoisemmin harrastuspiireissä ja omassa keittiössä. 
             Teemme ruokaa erilaisten historiallisten lähteiden ja harrastusperiodimme ajalta säilyneiden reseptien sekä niiden modernisoitujen muunnosten mukaan.</p>
+          <SmallPicture
+            picture = "/images/divider02.png"
+            name = "Lohikäärme"
+          />
           <h3>Teatteri</h3>
           <p>Teatteri oli aluksi kristillisen kirkon keino elävöittää litrugioita ja saarnoja, mutta pian siitä tuli niin rahvaan kuin aatelistenkin 
             suosima maallisempi viihdemuoto. Pienemmät teatteriryhmät kiertelivät maaseudulla, kun taas isommat seurueet esiintyivät kaupungeissa, 

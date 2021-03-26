@@ -3,6 +3,7 @@ import LargePicture from '../Components/LargePicture';
 import Head from 'next/head';
 import styles from './MainContent.module.css';
 import Kaavio from '../Components/Kaavio';
+import SmallPicture from '../Components/SmallPicture';
 
 const SCA = () => (
     <Layout>
@@ -52,6 +53,10 @@ const SCA = () => (
         <p>Erityisen arvostettuja ovat päärin arvonimet, joita on mahdollista saada, kun on panostanut runsaasti 
           johonkin erityisalaan harrastuksessa. Laakeriseppeleen voi saada paneutumisesta tieteisiin ja taiteisiin, 
           ritarin arvonimen ja valkoisen vyön taistelutaidoista ja pelikaanin arvonimen ahkerasta työstä seuran eteen.</p>
+        <SmallPicture
+            picture = "/images/divider02.png"
+            name = "Lohikäärme"
+        />
         <p>Siitä huolimatta, että meillä on seuran sisäinen arvojärjestys olemassa, oikeasti arvostamme jokaista jäsentä 
           yhtä paljon vasta-alkajasta vanhaan konkariin, sylilapsesta vanhukseen.</p>
         <p>Alla olevassa kuvassa on Aarnimetsän paronipari (syksystä 2017 syksyyn 2019) seurueineen.</p>

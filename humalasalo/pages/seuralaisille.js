@@ -13,8 +13,8 @@ const Seuralaisille = () => (
       <div className={styles.main}>
         <h1>Seuralaisille</h1>
         <SmallPicture
-            picture = "/images/dividerhumis.png"
-            name = "Lilja"
+            picture = "/images/divider03.png"
+            name = "Soturi ja etana"
         />
         <p>Humalasalon väellä on käytettävissään seuran oma kirjasto, 
           joka sijaitsee Märtan ja Lukasin residenssissä. 

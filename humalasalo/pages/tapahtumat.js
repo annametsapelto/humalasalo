@@ -3,6 +3,7 @@ import LargePicture from '../Components/LargePicture';
 import Head from 'next/head';
 import styles from './MainContent.module.css';
 import Link from 'next/link';
+import SmallPicture from '../Components/SmallPicture';
 
 const Tapahtumat = () => (
     <Layout>
@@ -19,6 +20,10 @@ const Tapahtumat = () => (
           Nuijasotaan. Lisäksi osaa keskiaikamarkkinoita voi pitää 
           eräänlaisina epävirallisina tapahtumina.
         </p>
+        <SmallPicture
+            picture = "/images/divider03.png"
+            name = "Soturi ja etana"
+        />
         <h3>Viikonlopputapahtumat</h3>
         <p>Aarnimetsän alueella järjestetään suunnilleen kerran kuukaudessa 
           viikonlopputapahtuma jossakin leirikeskuksessa. 

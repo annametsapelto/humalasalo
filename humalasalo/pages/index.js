@@ -2,6 +2,7 @@ import Layout from '../Components/Layout';
 import Head from 'next/head';
 import styles from './MainContent.module.css';
 import LargePicture from '../Components/LargePicture';
+import SmallPicture from '../Components/SmallPicture';
 
 export default function Home() {
   return (
@@ -12,6 +13,10 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <h1>Tervetuloa Humalasalon pitäjään!</h1>
+        <SmallPicture
+            picture = "/images/divider01.png"
+            name = "Ritarijänis"
+        />
         <p>Miekkailijat kilvoittelevat terät välkkyen auringossa, heraldiikan salat aukeavat teekupposen äärellä, 
           taitavat kädet tanssittavat ompeluneulaa ja luovat langoista kauneutta, tanssijat tempautuvat tanssien pyörteisiin, 
           pitopöydät notkuvat herkuista, ja jousiampujat virittelevät jousiaan hämmästyttääkseen taituruudellaan. 
@@ -25,6 +30,10 @@ export default function Home() {
           Tutkimme ja elävöitämme historiaa aina rautakaudesta renessanssiin. Monipuolinen toiminta antaa 
           jokaiselle mahdollisuuden sukeltaa “unelmaan keskiajasta” mieleisellään tavalla, oli se sitten mitä vain 
           kalpojenkalistelusta kalligrafian kiemuroihin tai hovitanssien pyörteistä aikakauden muotiin.</p>
+        <SmallPicture
+            picture = "/images/divider02.png"
+            name = "Lohikäärme"
+        />
         <p>Mukaan toimintaamme voi lähteä täysin ilman minkäänlaista ennakkotietämystä - kiinnostus historiaan 
           riittää! Humalasaloon voi tutustua osallistumalla erilaisten harrastuspiiriemme toimintaan ja syventää harrastusta 
           lähtemällä keskiaikaseuran tapahtumaan viettämään viikonloppua keskiaikaisissa tunnelmissa. 

@@ -2,6 +2,7 @@ import Layout from '../Components/Layout';
 import styles from './MainContent.module.css';
 import Head from 'next/head';
 import ContactInfo from '../Components/ContactInfo';
+import SmallPicture from '../Components/SmallPicture';
 
 const Yhteystiedot = () => (
     <Layout>
@@ -11,6 +12,10 @@ const Yhteystiedot = () => (
       </Head>
       <div className={styles.main}>
         <h1>Yhteystiedot</h1>
+        <SmallPicture
+            picture = "/images/divider03.png"
+            name = "Soturi ja etana"
+        />
             <p>Vastaamme mielellämme kysymyksiin, joita teille saattaa tulla harrastuksestamme. 
               Tässä on lista meidän virkailijoistamme eli seuramme aktiiveista. 
               Jos asiasi koskee jotain tiettyä aihealuetta, kannattaa lähestyä suoraan kyseisen aihealueen asiantuntijaa, 
