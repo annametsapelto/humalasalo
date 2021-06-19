@@ -71,7 +71,7 @@ const Toiminta = () => (
             Perusteita harjoitellaan aina tarvittaessa, joten mukaan voi tulla milloin vain. Tanssiharjoitukset ovat ilmaiset. 
             Lisää tietoa tanssiharjoituksista saa tanssimestari Adrian Möhköltä (Atro Kajaste) osoitteesta atro.kajaste@iki.fi.</p>
           <LargePicture
-              picture = "/Images/tanssia pareissa.jpg"
+              picture = "/images/tanssia pareissa.jpg"
               name = "Kaksi tanssivaa paria."
           />
           <h3>Jousiammunta</h3>
@@ -88,7 +88,7 @@ const Toiminta = () => (
             Täysin aloittelijoita myös opastetaan tarpeen mukaan ja lainakamojakin löytyy. Perusammunnan ohella reenaillaan myös SCA:n paria 
             ammuntaa eli Portsmouth Roundia ja Royal Roundia. Näistä molemmat ovat kelvollisia SCA-luokkien ammuntatuloksiin, jotka lähetetään kuningaskuntaan.</p>
           <LargePicture
-              picture = "/Images/jousiammuntaa.jpg"
+              picture = "/images/jousiammuntaa.jpg"
               name = "Jousiammuntaa ulkoilmassa."
           />
           <h3>Kalpamiekkailu</h3>
@@ -112,7 +112,7 @@ const Toiminta = () => (
           <p>Lisätietoja saat marskilta, <a href="http://scafightingfinland.com/forums/" target="_blank"> foorumilta</a> tai 
           <a href="http://scafightingfinland.com/" target="_blank">infosivuilta</a>.</p>
           <LargePicture
-              picture = "/Images/rottinkitaistelua.jpg"
+              picture = "/images/rottinkitaistelua.jpg"
               name = "Kaksi rottinkitaistelijaa turnajaiskentällä."
           />
           <h3>Historian tutkiminen</h3>
@@ -126,7 +126,7 @@ const Toiminta = () => (
           <p>Keskiaikaseurassa illuminaatiota ja kalligrafiaa voi harrastaa ihan omaksi iloksi, mutta ns. 
             kirjakääröjä eli scrolleja käytetään myös erilaisten saavutusten huomionosoituksina, joista yleisin esimerkki on aateliskirjan saaminen.</p>
           <LargePicture
-              picture = "/Images/kalligrafiaa.jpg"
+              picture = "/images/kalligrafiaa.jpg"
               name = "Illuminaatiolla koristeltu aateliskirja, joka on tehty muistuttamaan vanhaa nuotinnosta."
           />
           <h3>Käsityöt</h3>

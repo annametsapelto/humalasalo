@@ -5,7 +5,7 @@ const Header = () => (
     <div className = {styles.head}>
     <div className = {styles.device}>
         <Image
-            src="/Images/humalasalodevice.png"
+            src="/images/humalasalodevice.png"
             alt="Humalasalon vaakuna"
             width={300}
             height={450}
@@ -13,7 +13,7 @@ const Header = () => (
     </div>
         <div className={styles.header}>
         <Image
-            src="/Images/humalasalonamebarplain.png"
+            src="/images/humalasalonamebarplain.png"
             alt="Humalasalo, Hämeen keskiaikaseura ry"
             width={700}
             height={120}
