@@ -71,7 +71,7 @@ const Toiminta = () => (
             Perusteita harjoitellaan aina tarvittaessa, joten mukaan voi tulla milloin vain. Tanssiharjoitukset ovat ilmaiset. 
             Lisää tietoa tanssiharjoituksista saa tanssimestari Adrian Möhköltä (Atro Kajaste) osoitteesta atro.kajaste@iki.fi.</p>
           <LargePicture
-              picture = "/images/tanssia pareissa.jpg"
+              picture = "/images/tanssia-pareissa.jpg"
               name = "Kaksi tanssivaa paria."
           />
           <h3>Jousiammunta</h3>
@@ -110,7 +110,7 @@ const Toiminta = () => (
              Toisin kuin keskiajalla oikeasti, myös naiset voivat halutessaan osallistua meidän 
              taistelutoimintaamme ihan siinä missä miehetkin - ja monet osallistuvatkin.</p>
           <p>Lisätietoja saat marskilta, <a href="http://scafightingfinland.com/forums/" target="_blank"> foorumilta</a> tai 
-          <a href="http://scafightingfinland.com/" target="_blank">infosivuilta</a>.</p>
+          <a href="http://scafightingfinland.com/" target="_blank"> infosivuilta</a>.</p>
           <LargePicture
               picture = "/images/rottinkitaistelua.jpg"
               name = "Kaksi rottinkitaistelijaa turnajaiskentällä."
