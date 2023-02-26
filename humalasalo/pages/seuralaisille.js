@@ -17,7 +17,7 @@ const Seuralaisille = () => (
             name = "Soturi ja etana"
         />
         <p>Humalasalon väellä on käytettävissään seuran oma kirjasto, 
-          joka sijaitsee Märtan ja Lukasin residenssissä. 
+          joka sijaitsee Joanne am Reinin residenssissä. 
           Kirjat ovat lainattavissa kaikille Humalasalon vakiintuneille 
           asukkaille eli maksaville jäsenille sekä pidempään mukana olleille ei-maksaneille. </p>
         <LargePicture
