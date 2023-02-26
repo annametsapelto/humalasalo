@@ -7,8 +7,8 @@ const Footer = () => (
         <FooterPic />
         <p>Humalasalon pitäjä</p>
         <p>Hämeen keskiaikaseura ry</p>
-        <p><Link href="/yhteystiedot"><a>Yhteystiedot</a></Link></p>
-        <p><a href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook</a></p>
+        <p><Link href="/yhteystiedot">Yhteystiedot</Link></p>
+        <p><Link href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook</Link></p>
     </div>
 )
 

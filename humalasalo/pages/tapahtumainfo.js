@@ -13,7 +13,7 @@ import Link from 'next/link';
       <div className={styles.main}>
         <h1>Käytännön tietoa keskiaikaseuran tapahtumista</h1>
         <p>Mukailtu Aarnimetsän uusien jäsenten oppaasta. Koko oppaan voi käydä lukemassa 
-            <a href="https://www.aarnimetsa.org/wp-content/uploads/2019/12/uuden_j%c3%a4senen_opas-2015-teksti.pdf" target="_blank"> täältä</a>.</p>
+            <Link href="https://www.aarnimetsa.org/wp-content/uploads/2019/12/uuden_j%c3%a4senen_opas-2015-teksti.pdf" target="_blank"> täältä</Link>.</p>
         <p>Keskiaikaseurassa järjestetään useanlaisia tapahtumia. Tavallisin tapahtumatyyppi Suomessa/Skandinaviassa on viikonlopun kestävä juhla. 
             Perjantai¬illan ohjelmaan saattaa kuulua iltapala, ja varmasti siihen kuuluu yleistä hauskanpitoa, jutustelua ja toisinaan tanssia. 
             Lauantai on varsinainen tapahtumapäivä, johon keskeinen ohjelma sijoittuu. Jos tapahtumaan liittyy turnajaisia, ne pidetään yleensä 
@@ -86,7 +86,7 @@ import Link from 'next/link';
             picture="/images/ruoka2.jpg"
             name="Ruokaa, ruoka-astioita ja juoma-astioita nurmikolla."
         />
-        <h3><Link href="/tapahtumat"><a>Takaisin tapahtumat-sivulle</a></Link></h3>
+        <h3><Link href="/tapahtumat">Takaisin tapahtumat-sivulle</Link></h3>
       </div>
     </Layout> 
 

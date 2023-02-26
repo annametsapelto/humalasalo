@@ -3,6 +3,7 @@ import Head from 'next/head';
 import styles from './MainContent.module.css';
 import LargePicture from '../Components/LargePicture';
 import SmallPicture from '../Components/SmallPicture';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -26,7 +27,7 @@ export default function Home() {
             name = "Joukko keskiaikaisesti pukeutuneita ihmisiä nostaa maljan."
         />
         <p>Humalasalon pitäjä eli Hämeen keskiaikaseura ry. on keskiajan ja renessanssin 
-          elävöittämiselle omistettu yhdistys Pirkanmaan ja Hämeen alueella ja osa <a href="https://www.aarnimetsa.org/" target= "_blank"> Suomen keskiaikaseuraa</a>. 
+          elävöittämiselle omistettu yhdistys Pirkanmaan ja Hämeen alueella ja osa <Link href="https://www.aarnimetsa.org/" target= "_blank"> Suomen keskiaikaseuraa</Link>. 
           Tutkimme ja elävöitämme historiaa aina rautakaudesta renessanssiin. Monipuolinen toiminta antaa 
           jokaiselle mahdollisuuden sukeltaa “unelmaan keskiajasta” mieleisellään tavalla, oli se sitten mitä vain 
           kalpojenkalistelusta kalligrafian kiemuroihin tai hovitanssien pyörteistä aikakauden muotiin.</p>
@@ -41,8 +42,8 @@ export default function Home() {
           harrastajiin ympäri maailman. Toimintaamme voi osallistua myös ilman jäsenyyttä.</p>
         <p>Yhdessä tekeminen ja opetteleminen ovat humalasalolaisuuden ytimessä. Kaikki ovat tervetulleita 
           uppoutumaan keskiajan ihmisen elämän eri osa-alueisiin kanssamme, oppimaan uutta, tutustumaan uusiin ihmisiin ja ihastumaan keskiaikaan. 
-          Lisää tietoa pitäjän ajankohtaisesta toiminnasta saa liittymällä <a href="http://humalasalo.net/mailman/listinfo/tiedotuslista_humalasalo.net"> sähköpostilistallemme</a> tai 
-          <a href="https://www.facebook.com/groups/375781035887556" target ="_blank"> Facebook-ryhmäämme</a>. Tervetuloa mukaan!</p>
+          Lisää tietoa pitäjän ajankohtaisesta toiminnasta saa liittymällä <Link href="http://humalasalo.net/mailman/listinfo/tiedotuslista_humalasalo.net"> sähköpostilistallemme</Link> tai 
+          <Link href="https://www.facebook.com/groups/375781035887556" target ="_blank"> Facebook-ryhmäämme</Link>. Tervetuloa mukaan!</p>
         <LargePicture
             picture = "/images/tulinuolia.jpg"
             name = "Rivi ihmisiä ampumassa tulinuolia."

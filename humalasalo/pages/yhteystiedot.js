@@ -20,7 +20,7 @@ const Yhteystiedot = () => (
               Tässä on lista meidän virkailijoistamme eli seuramme aktiiveista. 
               Jos asiasi koskee jotain tiettyä aihealuetta, kannattaa lähestyä suoraan kyseisen aihealueen asiantuntijaa, 
               mutta tarvittaessa ohjaamme kysymykset oikeaan suuntaan. 
-              Meidän toiminnastamme tiedotamme tarkemmin <a href="http://humalasalo.net/mailman/listinfo/tiedotuslista_humalasalo.net"> sähköpostilistalla</a> sekä <a href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook-ryhmässä</a>.</p>
+              Meidän toiminnastamme tiedotamme tarkemmin <Link href="http://humalasalo.net/mailman/listinfo/tiedotuslista_humalasalo.net"> sähköpostilistalla</Link> sekä <a href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook-ryhmässä</a>.</p>
             <ContactInfo 
                 title="Vouti (Puheenjohtaja)"
                 pic = "/images/seneschal-small.png"
@@ -32,7 +32,7 @@ const Yhteystiedot = () => (
                 title="Varavouti (Varapuheenjohtaja)"
                 pic = "/images/humalasalodeviceplain.png"
                 picName = "Humalasalon vaakuna"
-                name="Dubhghall MacÉibhearáird (Henri Laine)"
+                name="Anneke Alfintytär Lindu (Anne Syrjä)"
                 email="Email: varavouti@humalasalo.net"
             />
             <ContactInfo 
@@ -67,7 +67,7 @@ const Yhteystiedot = () => (
                 title="Airut (Vaakuna- ja nimivastaava)"
                 pic = "/images/herald-small.png"
                 picName = "Airueen vaakuna"
-                name="Joanne am Rein (Hanna Kivelä)"
+                name="Maria Lorenza da Poppi (Ida Perälä)"
                 email="Email: airut@humalasalo.net"
             />
             <ContactInfo 
@@ -88,7 +88,7 @@ const Yhteystiedot = () => (
                 title="Tammilinnan kylänvanhin (Hämeenlinnan paikallisvastaava)"
                 pic = "/images/humalasalodeviceplain.png"
                 picName = "Humalasalon vaakuna"
-                name="Tammilinnan Jon (Joni Karjalainen)"
+                name="Markus Bucht (Jukka Viitanen)"
                 email="Email: kv-tammilinna@humalasalo.net"
             />
             <ContactInfo 

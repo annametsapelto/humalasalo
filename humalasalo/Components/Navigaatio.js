@@ -4,14 +4,14 @@ import styles from './Navigaatio.module.css';
 const Navigaatio = () => (
     <div className={styles.nav}>
         <ul>
-            <li><Link href="/"><a>Etusivu</a></Link></li>
-            <li><Link href="/toiminta"><a>Toiminta</a></Link></li>
-            <li><Link href="/tapahtumat"><a>Tapahtumat</a></Link></li>
-            <li><Link href="/SCA"><a>SCA</a></Link></li>
-            <li><Link href="/jasenyys"><a>Jäsenyys</a></Link></li>
-            <li><Link href="/seuralaisille"><a>Seuralaisille</a></Link></li>
-            <li><Link href="/keikalle"><a>Keikalle</a></Link></li>
-            <li><Link href="/yhteystiedot"><a>Yhteystiedot</a></Link></li>
+            <li><Link href="/">Etusivu</Link></li>
+            <li><Link href="/toiminta">Toiminta</Link></li>
+            <li><Link href="/tapahtumat">Tapahtumat</Link></li>
+            <li><Link href="/SCA">SCA</Link></li>
+            <li><Link href="/jasenyys">Jäsenyys</Link></li>
+            <li><Link href="/seuralaisille">Seuralaisille</Link></li>
+            <li><Link href="/keikalle">Keikalle</Link></li>
+            <li><Link href="/yhteystiedot">Yhteystiedot</Link></li>
         </ul>
     </div>
 )

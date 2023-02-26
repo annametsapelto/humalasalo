@@ -3,6 +3,7 @@ import Head from 'next/head';
 import styles from './MainContent.module.css';
 import LargePicture from '../Components/LargePicture';
 import SmallPicture from '../Components/SmallPicture';
+import Link from 'next/link';
 
 const Toiminta = () => (
     <Layout>
@@ -12,8 +13,6 @@ const Toiminta = () => (
       </Head>
       <div className={styles.main}>
         <h1>Toiminta</h1>
-        <p><i>HUOM! Koronaviruspandemian vuoksi 
-        kaikki toimintamme on joko tauolla tai siirtynyt verkkoon.</i></p>
         <p>Pitäjämme on tunnettu kukoistavista tieteistään ja taiteistaan, 
           taitavista jousiampujistaan, jaloista asetöiden taitajistaan sekä heraldiikan 
           salat tuntevista airuistaan. Eikä puutu joukostamme oivia pitokokkeja tai 
@@ -27,7 +26,7 @@ const Toiminta = () => (
           ennakkotietoja tai varusteita. Paikallistoimintaan osallistuminen on helpoin tapa 
           päästä mukaan uuteen harrastukseen ja tutustua uusiin ihmisiin. </p>
         <p>Toiminnasta tiedotetaan seuran sähköpostilistalla (linkki) sekä Facebookissa  
-          <a href="https://www.facebook.com/groups/375781035887556"> Humalasalon pitäjä -ryhmässä</a>. </p>
+          <Link href="https://www.facebook.com/groups/375781035887556"> Humalasalon pitäjä -ryhmässä</Link>. </p>
         <SmallPicture
             picture = "/images/divider03.png"
             name = "Soturi ja etana"
@@ -81,7 +80,7 @@ const Toiminta = () => (
             <li>Kuka: vapaat kaikille, myös aloittelijat tervetulleita</li>
             <li>Hinta: 2€/kerta/hlö, tutustumiskerta ilmainen</li>
             <li>Yhteystiedot:  jousimarski@humalasalo.net (Jousimarskit Jon Knutsson (Petteri Hoisko) ja Anneke Alfintytär Lindu (Anne Syrjä)</li>
-            <li>Huom! Treeneistä (ja niiden peruuntumisista) tiedotetaan <a href="https://www.facebook.com/groups/323373527762775/">Aarnimetsän jousikomppanian Facebook-ryhmässä</a></li>
+            <li>Huom! Treeneistä (ja niiden peruuntumisista) tiedotetaan <Link href="https://www.facebook.com/groups/323373527762775/">Aarnimetsän jousikomppanian Facebook-ryhmässä</Link></li>
           </ul>
           <p>Humalasalon jousiammuntaharjoituksissa ammutaan pitkäjousilla ja vastakaarijousilla. 
             Reeneissä ammutaan sekä vapaamuotoisesti että pikku kisoja ja hieman skenaariomaisesti joitakin asioita harjoitellen. 
@@ -109,8 +108,8 @@ const Toiminta = () => (
              joka asettaa omat turvallisuusvaatimuksensa jo haarniskoillekin. 
              Toisin kuin keskiajalla oikeasti, myös naiset voivat halutessaan osallistua meidän 
              taistelutoimintaamme ihan siinä missä miehetkin - ja monet osallistuvatkin.</p>
-          <p>Lisätietoja saat marskilta, <a href="http://scafightingfinland.com/forums/" target="_blank"> foorumilta</a> tai 
-          <a href="http://scafightingfinland.com/" target="_blank"> infosivuilta</a>.</p>
+          <p>Lisätietoja saat marskilta, <Link href="http://scafightingfinland.com/forums/" target="_blank"> foorumilta</Link> tai 
+          <Link href="http://scafightingfinland.com/" target="_blank"> infosivuilta</Link>.</p>
           <LargePicture
               picture = "/images/rottinkitaistelua.jpg"
               name = "Kaksi rottinkitaistelijaa turnajaiskentällä."

@@ -3,6 +3,7 @@ import Head from 'next/head';
 import styles from './MainContent.module.css';
 import LargePicture from '../Components/LargePicture';
 import SmallPicture from '../Components/SmallPicture';
+import Link from 'next/link';
  
  const Jasenyys = () => (
     <Layout>
@@ -17,7 +18,7 @@ import SmallPicture from '../Components/SmallPicture';
             name = "Ritarijänis"
         />
         <p>Hämeen keskiaikaseuraan liitytään liittymällä Suomen keskiaikaseuraan. 
-          Tulostettavan jäsenlomakkeen löydät <a href="https://www.aarnimetsa.org/keskiaikaseura-yhdistyksena/lomakkeet/" target="_blank">täältä</a>. Lomakkeesta valitaan paikallisyhdistykseksi Hämeen keskiaikaseura. 
+          Tulostettavan jäsenlomakkeen löydät <Link href="https://www.aarnimetsa.org/keskiaikaseura-yhdistyksena/lomakkeet/" target="_blank">täältä</Link>. Lomakkeesta valitaan paikallisyhdistykseksi Hämeen keskiaikaseura. 
           Keskiaikanimi ei ole pakollinen, jos sellaista ei ole ehtinyt itselleen kehittää. 
           Jäsenmaksu sisältää Suomen keskiaikaseuran oman julkaisun Aarniwalcean sekä Drachenwaldin eli Euroopan laajuisen 
           kuningaskunnan julkaisun Dragon’s Talen sähköisessä muodossa.
