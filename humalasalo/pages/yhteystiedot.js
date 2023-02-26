@@ -3,6 +3,7 @@ import styles from './MainContent.module.css';
 import Head from 'next/head';
 import ContactInfo from '../Components/ContactInfo';
 import SmallPicture from '../Components/SmallPicture';
+import Link from 'next/link';
 
 const Yhteystiedot = () => (
     <Layout>
