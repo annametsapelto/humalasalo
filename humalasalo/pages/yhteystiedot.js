@@ -20,7 +20,7 @@ const Yhteystiedot = () => (
               Tässä on lista meidän virkailijoistamme eli seuramme aktiiveista. 
               Jos asiasi koskee jotain tiettyä aihealuetta, kannattaa lähestyä suoraan kyseisen aihealueen asiantuntijaa, 
               mutta tarvittaessa ohjaamme kysymykset oikeaan suuntaan. 
-              Meidän toiminnastamme tiedotamme tarkemmin <Link href="http://humalasalo.net/mailman/listinfo/tiedotuslista_humalasalo.net"> sähköpostilistalla</Link> sekä <a href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook-ryhmässä</a>.</p>
+              Meidän toiminnastamme tiedotamme tarkemmin <Link href="http://humalasalo.net/mailman/listinfo/tiedotuslista_humalasalo.net"> sähköpostilistalla</Link> sekä <Link href="https://www.facebook.com/groups/375781035887556" target="_blank">Facebook-ryhmässä</Link>.</p>
             <ContactInfo 
                 title="Vouti (Puheenjohtaja)"
                 pic = "/images/seneschal-small.png"
