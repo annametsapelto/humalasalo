@@ -64,6 +64,13 @@ const Yhteystiedot = () => (
                 name="Oliver of Harjuwalcea (Olli Leimu)"
                 email="Email: marski@humalasalo.net"
             />
+              <ContactInfo 
+                title="Kalpamarski (Taisteluvastaava)"
+                pic = "/images/heavy-small.png"
+                picName = "Marskin vaakuna"
+                name="Wilhelm Marsson (Hampus Nilsson)"
+                email="Email: marski@humalasalo.net"
+            />
             <ContactInfo 
                 title="Airut (Vaakuna- ja nimivastaava)"
                 pic = "/images/herald-small.png"
