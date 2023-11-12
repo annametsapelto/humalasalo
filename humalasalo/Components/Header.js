@@ -1,5 +1,6 @@
 import styles from "./Header.module.css";
 import Image from "next/image";
+import Navigaatio from './Navigaatio';
 
 const Header = () => (
   <div className={styles.head}>
@@ -11,7 +12,8 @@ const Header = () => (
         height={450}
       />
     </div>
-    <div className={styles.header}>
+    <div>
+        <div className={styles.header}>
       <Image
         src="/images/humalasalonamebarplain.png"
         alt="Humalasalo, Hämeen keskiaikaseura ry"
@@ -19,6 +21,10 @@ const Header = () => (
         height={120}
       />
     </div>
+    <div>
+      <Navigaatio></Navigaatio>
+    </div></div>
+
   </div>
 );
 
