@@ -151,15 +151,6 @@ const Toiminta = () => (
             picture = "/images/divider02.png"
             name = "Lohikäärme"
           />
-          <h3>Teatteri</h3>
-          <p>Teatteri oli aluksi kristillisen kirkon keino elävöittää litrugioita ja saarnoja, mutta pian siitä tuli niin rahvaan kuin aatelistenkin 
-            suosima maallisempi viihdemuoto. Pienemmät teatteriryhmät kiertelivät maaseudulla, kun taas isommat seurueet esiintyivät kaupungeissa, 
-            aatelisten luona ja jopa hoveissa. Teatteriseurueeseen saattoi kuulua niin näyttelijöitä, tanssijoita ja laulajia kuin runoniekkoja, 
-            jonglöörejä ja leijonankesyttäjiäkin.</p>
-          <p>Tervakannaksella (Tampere) toimiva uusi teatteriseurue Pyhän Vituksen Komeljanttarit keskittyy hieman vaatimattomammin luomaan 
-            keskiajan hengessä tehtyjä ja commedia dell'arten käytäntöjä noudatelevia näytelmiä niin improvisoiden kuin käsikirjoituksenkin pohjalta. 
-            Harjoituksiin ovat tervetulleita jokainen lavalle toivova taitotasosta tai aiemmasta teatterikokemuksesta riippumatta. 
-            Lisätietoja saat seuran tiede- ja taideneuvokselta.</p>
           <h3>Heraldiikka</h3>
           <p>Heraldiikka sisältää seurassamme vaakunat, protokollan ja nimistöasiat ja nämä asiat muodostavat airueidemme toimialan.</p>
           <p>1100-luvulla käyttöön tulleet vaakunat olivat vahvasti läsnä keskiajan elämässä ja niinpä niitä käytetään 
