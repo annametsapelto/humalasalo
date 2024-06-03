@@ -26,7 +26,7 @@ const Yhteystiedot = () => (
                 title="Vouti (Puheenjohtaja)"
                 pic = "/images/seneschal-small.png"
                 picName = "Voudin vaakuna"
-                name="Erhart von Mannheim (Jarno Manninen)"
+                name="Ehrhart von Mannheim (Jarno Manninen)"
                 email="Email: vouti@humalasalo.net"
             />
             <ContactInfo 
@@ -47,7 +47,7 @@ const Yhteystiedot = () => (
                 title="Kastellaani (Jäsenvastaava)"
                 pic = "/images/chatelaine-small.png"
                 picName = "Kastellaanin vaakuna"
-                name="Dianora del Bianco (Anna Metsäpelto)"
+                name="Marguarite de Reims (Terhi Tanner)"
                 email="Email: kastellaani@humalasalo.net"
             />
             <ContactInfo 
@@ -68,7 +68,7 @@ const Yhteystiedot = () => (
                 title="Kalpamarski (Taisteluvastaava)"
                 pic = "/images/heavy-small.png"
                 picName = "Marskin vaakuna"
-                name="Wilhelm Marsson (Hampus Nilsson)"
+                name="Emilia Murmellius (Emilia Tamminen)"
                 email="Email: marski@humalasalo.net"
             />
             <ContactInfo 
@@ -82,7 +82,7 @@ const Yhteystiedot = () => (
                 title="Tiede- ja taideneuvos"
                 pic = "/images/a&s-small.png"
                 picName = "Neuvoksen vaakuna"
-                name="()"
+                name="Maria Lorenza da Poppi (Ida Perälä)"
                 email="Email: moas@humalasalo.net"
             />
             <ContactInfo 
@@ -100,7 +100,7 @@ const Yhteystiedot = () => (
                 email="Email: kv-tammilinna@humalasalo.net"
             />
             <ContactInfo 
-                title="Harjuvakean kylänvanhin (Valkeakosken paikallisvastaava)"
+                title="Harjuvalkean kylänvanhin (Valkeakosken paikallisvastaava)"
                 pic = "/images/humalasalodeviceplain.png"
                 picName = "Humalasalon vaakuna"
                 name="Harjuvalkean Jaakko (Jaakko Voutilainen)"
@@ -114,7 +114,7 @@ const Yhteystiedot = () => (
                 email="Email: kv-sudenportti@humalasalo.net"
             />
             <ContactInfo 
-                title="Tanssimestari"
+                title="Tanssimestari (Tanssitoimintavastaava)"
                 pic = "/images/humalasalodeviceplain.png"
                 picName = "Humalasalon vaakuna"
                 name="Adrian Möhkö (Atro Kajaste)"
