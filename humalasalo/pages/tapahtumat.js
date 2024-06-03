@@ -13,10 +13,14 @@ const Tapahtumat = () => (
       </Head>
       <div className={styles.main}>
         <h1>Tapahtumat</h1>
-        <p>Tapahtumat ovat yksi asia meidän toimintamme keskiössä. 
+        <ul>
+            <li><link href="https://www.aarnimetsa.org/tapahtumakalenteri/">Aarnimetsän (Suomi) tapahtumakalenteri</link></li>
+            <li><link href="https://drachenwald.sca.org/events/calendar/">Drachenwaldin (Eurooppa) tapahtumakalenteri</link></li>
+        </ul>
+        <p><link href="/toiminta">Paikallistoiminnan</link> ohella tapahtumat ovat toimintamme keskiössä. 
           Seuran viralliset tapahtumat voi Aarnimetsän (Suomen) 
-          alueella jakaa kahteen ryhmään eli viikonlopputapahtumiin 
-          leirikeskuksissa sekä leiritapahtumiin eli käytännössä 
+          alueella jakaa kahteen ryhmään: viikonlopputapahtumiin 
+          leirikeskuksissa sekä pidempiin leiritapahtumiin eli käytännössä 
           Nuijasotaan. Lisäksi osaa keskiaikamarkkinoita voi pitää 
           eräänlaisina epävirallisina tapahtumina.
         </p>
@@ -85,7 +89,7 @@ const Tapahtumat = () => (
         <p>Yleensä seurojen leireihin markkinoille on ilmoittautumiset verkossa hyvissä ajoin ennen tapahtumaa. 
           Vaatimuksena tyypillisesti on vähintään vahtivuoro leirissä tai mahdollisella esittelypöydällä.</p>
         <LargePicture
-          picture = "/images/markkinoilla.jpg"
+          picture = "/images/markkinoilla.JPG"
           name = "Historiallisilla markkinoilla esittelypöydän äärellä."
         />
       </div>
