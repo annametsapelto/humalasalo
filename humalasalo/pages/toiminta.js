@@ -75,8 +75,8 @@ const Toiminta = () => (
           />
           <h3>Jousiammunta</h3>
           <ul>
-            <li>Aika: vuorot tauolla koronaviruspandemian takia</li>
-            <li>Paikka: Toijalan Monitoimihalli, Köyvärintie 3, Akaa</li>
+            <li>Aika: SISÄVUOROT TAUOLLA</li>
+            <li>Paikka: etsinnässä</li>
             <li>Kuka: vapaat kaikille, myös aloittelijat tervetulleita</li>
             <li>Hinta: 2€/kerta/hlö, tutustumiskerta ilmainen</li>
             <li>Yhteystiedot:  jousimarski@humalasalo.net (Jousimarskit Jon Knutsson (Petteri Hoisko) ja Anneke Alfintytär Lindu (Anne Syrjä)</li>
@@ -99,6 +99,9 @@ const Toiminta = () => (
               Tervakannaksella kalpamiekkailun jaloon taitoon pääsee tutustumaan sovittaessa. Miekkailijat kalistelevat teriään 
               sekä sisävuoroilla että ulkona auringossa, ja sisävuorojen kustannukset jaetaan harjoituksiin osallistuvien kesken.</p>
           <h3>SCA Heavy Combat eli rottinkitaistelu</h3>
+          <ul>
+            <li>Yhteystiedot: marski, <Link href="http://scafightingfinland.com/forums/" target="_blank"> foorumi</Link></li>
+          </ul>
           <p>Rottinkitaistelun esikuvana on keskiaikainen miekkailu ja turnajaiset, ja se on saanut nimensä pääasiassa rottingista  
             valmistetuista aseistaan. Rottinkia käytetään aseissa sen turvallisuutta
              lisäävien ominaisuuksien vuoksi. Rottinkitaistelua käydään jalkaisin, 
@@ -108,10 +111,9 @@ const Toiminta = () => (
              joka asettaa omat turvallisuusvaatimuksensa jo haarniskoillekin. 
              Toisin kuin keskiajalla oikeasti, myös naiset voivat halutessaan osallistua meidän 
              taistelutoimintaamme ihan siinä missä miehetkin - ja monet osallistuvatkin.</p>
-          <p>Lisätietoja saat marskilta, <Link href="http://scafightingfinland.com/forums/" target="_blank"> foorumilta</Link> tai 
-          <Link href="http://scafightingfinland.com/" target="_blank"> infosivuilta</Link>.</p>
+          <p>Lisätietoja saat <Link href="http://scafightingfinland.com/" target="_blank"> infosivuilta</Link>.</p>
           <LargePicture
-              picture = "/images/rottinkitaistelua.jpg"
+              picture = "/images/rottinkitaistelua.JPG"
               name = "Kaksi rottinkitaistelijaa turnajaiskentällä."
           />
           <h3>Historian tutkiminen</h3>
